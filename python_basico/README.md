@@ -1,16 +1,16 @@
 # Curso de Python Basico
 
-    Descipcion 
+* Descipcion 
 
     - Tipos de Variables: "Definicion"
-        -- Strings
-        -- Float
-        -- Boleans
-        -- Integers
+        - Strings
+        - Float
+        - Boleans
+        - Integers
     
-    -- Estructuras de Datos:
+    - Estructuras de Datos:
 
-        -- Listas (listas.py):
+        - Listas (listas.py):
             - Descripcion  
             - Crear
             - Agregar
@@ -18,47 +18,47 @@
             - Eliminar
             - Leer
 
-        -- Tuplas (tuplas.py):  
+        - Tuplas (tuplas.py):  
             - Descripcion
             - Crear
             - Agregar
             - Leer  
 
-        -- Diccionarios (diccionarios.py): 
+        - Diccionarios (diccionarios.py): 
             - Descripcion 
             - Agregar
             - Editar
             - Eliminar
             - Leer   
 
-        -- Sets (set.py):
+        - Sets (set.py):
             - Descripcion
             - Agregar
             - Editar
             - Eliminar
             - Leer 
 
-        -- Strings:
+        - Strings:
             - Descipcion
             - Concatenar
             - F Strings
             - Funciones Utiles sobre strings
         
     - Operadores y comparaciones:
-        -- Operadores de Comparacion
-        -- Operadores Aritmeticos ( Suma, Resta, ...)
-        -- Operadores Logicos
+        - Operadores de Comparacion
+        - Operadores Aritmeticos ( Suma, Resta, ...)
+        - Operadores Logicos
 
-    -- Ciclos:
-        -- For
-        -- While
-        -- Ciclos Anidados
+    - Ciclos:
+        * For
+        * While
+        * Ciclos Anidados
     
-    -- Funciones:
+    - Funciones:
 
-    -- Clases:
+    - Clases:
 
-    -- Ejercicios Practicos:
+    - Ejercicios Practicos:
 
 
     - Estrcuturas de Datos
