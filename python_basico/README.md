@@ -1,17 +1,15 @@
-# Curso de Python Basico
+### Curso de Python Basico
 
-* Descipcion 
-
-    - Tipos de Variables: "Definicion"
+* En este curso basico buscaremos profundizar en los siguientes temas:
+    - Tipos de Variables (variables.py):
         - Strings
         - Float
         - Boleans
         - Integers
     
     - Estructuras de Datos:
-
         - Listas (listas.py):
-            - Descripcion  
+            - Descripcion 
             - Crear
             - Agregar
             - Editar
@@ -38,18 +36,18 @@
             - Eliminar
             - Leer 
 
-        - Strings:
+        - Strings (strings.py):
             - Descipcion
             - Concatenar
             - F Strings
             - Funciones Utiles sobre strings
         
-    - Operadores y comparaciones:
+    - Operadores y comparaciones (operadores_comparaciones.py):
         - Operadores de Comparacion
         - Operadores Aritmeticos ( Suma, Resta, ...)
         - Operadores Logicos
 
-    - Ciclos:
+    - Ciclos (ciclos.py):
         * For
         * While
         * Ciclos Anidados
@@ -59,6 +57,3 @@
     - Clases:
 
     - Ejercicios Practicos:
-
-
-    - Estrcuturas de Datos
