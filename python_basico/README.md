@@ -1,11 +1,11 @@
 ### Curso de Python Basico
 
 * En este curso basico buscaremos profundizar en los siguientes temas:
-    - Tipos de Variables (variables.py):
+    - Tipos de Datos (datos.py):
         - Strings
-        - Float
-        - Boleans
+        - Boleans 
         - Integers
+        - Float
     
     - Estructuras de Datos:
         - Listas (listas.py):
