@@ -9,18 +9,16 @@
     
     - Estructuras de Datos:
         - Listas (listas.py):
-            - Descripcion 
-            - Crear
-            - Agregar
-            - Editar
-            - Eliminar
-            - Leer
+            - Definición
+            - Caracteristicas
+            - Creación
+            - Ejemplos
 
         - Tuplas (tuplas.py):  
-            - Descripcion
-            - Crear
-            - Agregar
-            - Leer  
+            - Definición
+            - Caracteristicas
+            - Creación
+            - Ejemplos
 
         - Diccionarios (diccionarios.py): 
             - Descripcion 
